@@ -1,4 +1,4 @@
-# GIO_dataset
+# vehicle_dataset
 This repository shares some datasets for general lightweight odometry. *A General Lightweight Odometry Frameworkfor Intelligent Vehicles*</br>
 The first sequence is for HQ-1 IV, composed of 4 calibrated LiDARs (2 Leishen CH32, 2 RS-Bperal), 7 surround view cameras, GNSS, IMU, and chassis info. Topics info: </br>
 ```C++
